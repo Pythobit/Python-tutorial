@@ -1,0 +1,30 @@
+1. Movie Collection
+  - Python Basics
+  - Interacting with users
+  - if statements
+  - functions & loops
+
+2. Library Manager
+  - OOPs
+  - Error handling
+  - Dealing with files & storage
+  - Relative imports & import errors
+  - Databases with SQLite
+  - Context Managers
+  - Type hinting
+  
+3. Quotes & Book Store Scrapers
+  - Advanced built-in functions
+  - Generators
+  - Regular expressions
+  - Working with data & time
+  - Advanced data manipulation
+  - Web scraping with external libraries
+  
+4. Advanced Python Knowledge
+  - Asynchronus Python Development
+  - Python in the wild
+  - Manage python projects with Pipenv
+  - Intro to Web development with flask
+  - Algorithms & Data Structure
+  - Popular Python libraries
