@@ -1,6 +1,4 @@
-<p align="center">
 # Python-tutorial
- </p>
 <p align="center">
   <img height="480" width="700" src="background.jpg">
  </p>
