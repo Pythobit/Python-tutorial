@@ -15,6 +15,15 @@ A tutorial for those who wanna make success in Python, here will be covering Pyt
 6. Learn how to write desktop applications with Python and Tkinter.<br>
 7. Interact with REST APIs using Python and build a currency converter!<br>
 8. Develop a life-long love for programming with Python!<br><br>
+
+<h3><b>You will:</b></h3>
+1. Get a broader and deeper experience in Python than with any other Udemy course on the market.<br>
+2. Start at zero and become an expert whilst learning all about the inner workings of Python.<br>
+3. Learn how to write professional Python code like a professional Python developer.<br>
+4. Develop a long-lasting love for Python and programming by creating good programming habits.<br>
+5. Explore the wider possibilities of what you can do with Python, including databases, web development and web scraping.<br>
+7. Become job-ready by learning about best practices, Selenium, unit testing, and all of the major Python topics.<br>
+
 <h2><b>Are there any course requirements or prerequisites?</b></h2>
 1. Access to a computer with an internet connection. Everything else we use is publicly available and i'll guide you through getting it.<br>
 2. There are no other requirements, besides getting started!<br><br>
