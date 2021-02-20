@@ -14,7 +14,7 @@ A tutorial for those who wanna make success in Python, here will be covering Pyt
 5. Automate extracting data from websites using web scraping libraries like BeautifulSoup and Selenium.<br>
 6. Learn how to write desktop applications with Python and Tkinter.<br>
 7. Interact with REST APIs using Python and build a currency converter!<br>
-8. Develop a life-long love for programming with Python!<br>
+8. Develop a life-long love for programming with Python!<br><br>
 <p align="center">
-  <img src="bg.jpg">
+  <img src="bg.jpg" width="700" height="500">
  </p>
