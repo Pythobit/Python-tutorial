@@ -9,6 +9,32 @@ A tutorial for those who wanna make success in Python, here will be covering Pyt
 
 <h2<<b>Key Contents</b></h2>
 1. <a href="/Projects.txt/">Projects</a>
+2. <a href="/Season 1 - Intro to Python/">Season 1 - Intro to Python</a>
+3. <a href="/Projects.txt/">Projects</a>
+4. <a href="/Projects.txt/">Projects</a>
+5. <a href="/Projects.txt/">Projects</a>
+6. <a href="/Projects.txt/">Projects</a>
+7. <a href="/Projects.txt/">Projects</a>
+8. <a href="/Projects.txt/">Projects</a>
+9. <a href="/Projects.txt/">Projects</a>
+10. <a href="/Projects.txt/">Projects</a>
+11. <a href="/Projects.txt/">Projects</a>
+12. <a href="/Projects.txt/">Projects</a>
+13. <a href="/Projects.txt/">Projects</a>
+14. <a href="/Projects.txt/">Projects</a>
+15. <a href="/Projects.txt/">Projects</a>
+16. <a href="/Projects.txt/">Projects</a>
+17. <a href="/Projects.txt/">Projects</a>
+18. <a href="/Projects.txt/">Projects</a>
+19. <a href="/Projects.txt/">Projects</a>
+20. <a href="/Projects.txt/">Projects</a>
+21. <a href="/Projects.txt/">Projects</a>
+22. <a href="/Projects.txt/">Projects</a>
+23. <a href="/Projects.txt/">Projects</a>
+24. <a href="/Projects.txt/">Projects</a>
+25. <a href="/Projects.txt/">Projects</a>
+26. <a href="/Projects.txt/">Projects</a>
+27. <a href="/Projects.txt/">Projects</a>
 
 <h2><b>What you’ll learn</b></h2>
 1. From foundations to expert, learn about every major Python topic, working with Python 3.<br>
