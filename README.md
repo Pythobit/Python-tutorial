@@ -8,30 +8,30 @@ A tutorial for those who wanna make success in Python, here will be covering Pyt
 <br>
 
 <h2><b>Key Contents</b></h2>
-1. <a href="/Projects.txt/">Projects</a>
-2. <a href="/Season 1 - Intro to Python/">Season 1 - Intro to Python</a>
-3. <a href="/Season 2 - Python Fundamentals/">Season 2 - Python Fundamentals</a>
-4. <a href="/Season 3 - Milestone Project 1/">Season 3 - Milestone Project 1</a>
-5. <a href="/Season 4 - Object-Oriented Programming with Python/">Season 4 - Object-Oriented Programming with Python</a>
-6. <a href="/Season 5 - Errors in Python/">Season 5 - Errors in Python</a>
-7. <a href="/Season 6 - Files in Python/">Season 6 - Files in Python</a>
-8. <a href="/Season 7 - Databases in Python & Milestone Project 2/">Season 7 - Databases in Python & Milestone Project 2</a>
-9. <a href="/Season 8 - Type Hinting in Python/">Season 8 - Type Hinting in Python</a>
-10. <a href="/Season 9 - Advanced built-in functions in Python/">Season 9 - Advanced built-in functions in Python</a>
-11. <a href="/Season 10 - Advanced Python Development/">Season 10 - Advanced Python Development</a>
-12. <a href="/Season 11 - Web Scraping with Python/">Season 11 - Web Scraping with Python</a>
-13. <a href="/Season 12 - Browser Automation with Selenium/">Season 12 - Browser Automation with Selenium</a>
-14. <a href="/Season 13 - Asynchronous Python Development/">Season 13 - Asynchronous Python Development</a>
-15. <a href="/Season 14 - Python on the console and managing project dependencies/">Season 14 - Python on the console and managing project dependencies</a>
-16. <a href="/Season 15 - Web Development with Flask/">Season 15 - Web Development with Flask</a>
-17. <a href="/Season 16 - Interacting with APIs with Python/">Season 16 - Interacting with APIs with Python</a>
-18. <a href="/Season 17 - Decorators in Python/">Season 17 - Decorators in Python</a>
-19. <a href="/Season 18 - Advanced Object-Oriented Programming/">Season 18 - Advanced Object-Oriented Programming</a>
-20. <a href="/Season 19 - GUI Development with Tkinter/">Season 19 - GUI Development with Tkinter</a>
-21. <a href="/Season 20 - Unit Testing with Python/">Season 20 - Unit Testing with Python</a>
-22. <a href="/Season 21 - Algorithms and Data Structures/">Season 21 - Algorithms and Data Structures</a>
-23. <a href="/Season 22 - Python Libraries/">Season 22 - Python Libraries</a>
-24. <a href="/Season 23 - Python Refresher/">Season 23 - Python Refresher</a>
+1. <a href="/Projects.txt/">Projects</a><br>
+2. <a href="/Season 1 - Intro to Python/">Season 1 - Intro to Python</a><br>
+3. <a href="/Season 2 - Python Fundamentals/">Season 2 - Python Fundamentals</a><br>
+4. <a href="/Season 3 - Milestone Project 1/">Season 3 - Milestone Project 1</a><br>
+5. <a href="/Season 4 - Object-Oriented Programming with Python/">Season 4 - Object-Oriented Programming with Python</a><br>
+6. <a href="/Season 5 - Errors in Python/">Season 5 - Errors in Python</a><br>
+7. <a href="/Season 6 - Files in Python/">Season 6 - Files in Python</a><br>
+8. <a href="/Season 7 - Databases in Python & Milestone Project 2/">Season 7 - Databases in Python & Milestone Project 2</a><br>
+9. <a href="/Season 8 - Type Hinting in Python/">Season 8 - Type Hinting in Python</a><br>
+10. <a href="/Season 9 - Advanced built-in functions in Python/">Season 9 - Advanced built-in functions in Python</a><br>
+11. <a href="/Season 10 - Advanced Python Development/">Season 10 - Advanced Python Development</a><br>
+12. <a href="/Season 11 - Web Scraping with Python/">Season 11 - Web Scraping with Python</a><br>
+13. <a href="/Season 12 - Browser Automation with Selenium/">Season 12 - Browser Automation with Selenium</a><br>
+14. <a href="/Season 13 - Asynchronous Python Development/">Season 13 - Asynchronous Python Development</a><br>
+15. <a href="/Season 14 - Python on the console and managing project dependencies/">Season 14 - Python on the console and managing project dependencies</a><br>
+16. <a href="/Season 15 - Web Development with Flask/">Season 15 - Web Development with Flask</a><br>
+17. <a href="/Season 16 - Interacting with APIs with Python/">Season 16 - Interacting with APIs with Python</a><br>
+18. <a href="/Season 17 - Decorators in Python/">Season 17 - Decorators in Python</a><br>
+19. <a href="/Season 18 - Advanced Object-Oriented Programming/">Season 18 - Advanced Object-Oriented Programming</a><br>
+20. <a href="/Season 19 - GUI Development with Tkinter/">Season 19 - GUI Development with Tkinter</a><br>
+21. <a href="/Season 20 - Unit Testing with Python/">Season 20 - Unit Testing with Python</a><br>
+22. <a href="/Season 21 - Algorithms and Data Structures/">Season 21 - Algorithms and Data Structures</a><br>
+23. <a href="/Season 22 - Python Libraries/">Season 22 - Python Libraries</a><br>
+24. <a href="/Season 23 - Python Refresher/">Season 23 - Python Refresher</a><br>
 
 <h2><b>What you’ll learn</b></h2>
 1. From foundations to expert, learn about every major Python topic, working with Python 3.<br>
