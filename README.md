@@ -1,11 +1,15 @@
 <h1 align="center"><b>Python : Basic to Advance</b></h1>
 <p align="center">
   <img height="480" width="700" src="background.jpg">
- </p>
+</p>
 A tutorial for those who wanna make success in Python, here will be covering Python Basics to Advance, with 4 projects to work upon including database with SQLite, Web Scraping and Many more..., so stay tuned for more..
 <br>
 <b>This Consists of 23 Seasons with 341 Episodes with a total time of 35.5 Hours</b>
-<br><br>
+<br>
+
+<h2<<b>Key Contents</b></h2>
+1. <a href="/Projects.txt/">Projects</a>
+
 <h2><b>What you’ll learn</b></h2>
 1. From foundations to expert, learn about every major Python topic, working with Python 3.<br>
 2. Write professional-grade Pythonic code with all the best practices and avoiding common pitfalls.<br>
@@ -29,4 +33,4 @@ A tutorial for those who wanna make success in Python, here will be covering Pyt
 2. There are no other requirements, besides getting started!<br><br>
 <p align="center">
   <img src="bg.jpg" width="700" height="500">
- </p>
+</p>
