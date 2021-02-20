@@ -15,6 +15,9 @@ A tutorial for those who wanna make success in Python, here will be covering Pyt
 6. Learn how to write desktop applications with Python and Tkinter.<br>
 7. Interact with REST APIs using Python and build a currency converter!<br>
 8. Develop a life-long love for programming with Python!<br><br>
+<h2><b>Are there any course requirements or prerequisites?</b></h2>
+1. Access to a computer with an internet connection. Everything else we use is publicly available and i'll guide you through getting it.<br>
+2. There are no other requirements, besides getting started!<br><br>
 <p align="center">
   <img src="bg.jpg" width="700" height="500">
  </p>
