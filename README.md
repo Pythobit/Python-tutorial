@@ -8,6 +8,7 @@ A tutorial for those who wanna make success in Python, here will be covering Pyt
 <br>
 
 <h2><b>Key Contents</b></h2>
+- <a href="/Environment.txt/">Environment</a><br>
 - <a href="/Projects.txt/">Projects</a><br>
 - <a href="/Season 1 - Intro to Python/">Season 1 - Intro to Python</a><br>
 - <a href="/Season 2 - Python Fundamentals/">Season 2 - Python Fundamentals</a><br>
