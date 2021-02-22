@@ -1,0 +1,13 @@
+To Download Python -
+  - To Download - https://www.python.org/downloads/
+  - For a video refferal - Windows - https://youtu.be/O5nHFBhCfFo
+                         - MacOS - https://youtu.be/TgA4ObrowRg
+                         - Linux - https://youtu.be/sKiDjO_0dCQ
+                        
+IDE - 
+ - PyCharm - https://www.jetbrains.com/pycharm/download/#section=windows
+     - For a video refferal - Windows - https://youtu.be/SZUNUB6nz3g
+                            - MacOS - https://youtu.be/mDqxeCqVsOg
+                            - Linux - https://youtu.be/cVROiVgR_qg
+                            
+ - Repl.it - https://repl.it/languages/python3
