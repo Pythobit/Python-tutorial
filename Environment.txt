@@ -4,7 +4,7 @@ To Download Python -
                          - MacOS - https://youtu.be/TgA4ObrowRg
                          - Linux - https://youtu.be/sKiDjO_0dCQ
                         
-IDE - 
+IDE (Integrated Development Environment) - 
  - PyCharm - https://www.jetbrains.com/pycharm/download/#section=windows
      - For a video refferal - Windows - https://youtu.be/SZUNUB6nz3g
                             - MacOS - https://youtu.be/mDqxeCqVsOg
