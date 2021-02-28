@@ -1,3 +1,5 @@
+Projects to be covered :
+
 1. Movie Collection
   - Python Basics
   - Interacting with users
