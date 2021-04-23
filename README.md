@@ -45,7 +45,7 @@ A tutorial for those who wanna make success in Python, here will be covering Pyt
 8. Develop a life-long love for programming with Python!<br>
 
 <h3><b>You will:</b></h3>
-1. Get a broader and deeper experience in Python than with any other Udemy course on the market.<br>
+1. Get a broader and deeper experience in Python<br>
 2. Start at zero and become an expert whilst learning all about the inner workings of Python.<br>
 3. Learn how to write professional Python code like a professional Python developer.<br>
 4. Develop a long-lasting love for Python and programming by creating good programming habits.<br>
