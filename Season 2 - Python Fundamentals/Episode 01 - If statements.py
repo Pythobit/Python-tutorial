@@ -20,8 +20,8 @@ if username == friend }- Boolean Comparison, : }- Colon
             print()
 using if and else at same time also known as "Compound if-Statement" -- """
 # Things you put inside if condition, doesn't needs to be a bool comparison.
-friends = ['mia','dom']
-family = ['gisel','han']
+friends = ['Charlie','Smith']
+family = ['Johny','Bob']
 username = input('Enter your name : ')
 
 if username in friends:
