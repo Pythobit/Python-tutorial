@@ -1,5 +1,4 @@
 # 13. Join
-
 # it allows to print list a bit better
 
 friends = ['Pythobit','boy','Pythoman']
