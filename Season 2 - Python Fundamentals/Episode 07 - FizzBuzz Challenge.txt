@@ -1,0 +1,41 @@
+I'm really excited for this challenge, and you should be too!
+
+This is a common challenge that you could be asked to complete when you apply for graduate and entry-level programming jobs. 
+It's not an impossible challenge—I'm sure you'll be able to do it—but it requires some careful thinking and following the instructions provided to the letter.
+
+The FizzBuzz challenge
+In this exercise, print out 100 numbers, from 1 to 100 (both inclusive). But:
+1. Instead of printing multiples of 3, print "Fizz".
+2. Instead of printing multiples of 5, print "Buzz".
+3. Instead of printing multiples of both 3 and 5, print "FizzBuzz".
+
+That means your program will print a combination of numbers, Fizz, Buzz, and FizzBuzz.
+For example:
+- 1
+- 2
+- Fizz , Since 3 is a multiple of 3
+- 4
+- Buzz , Since 5 is a multiple of 5
+- Fizz
+- 7
+- 8
+- Fizz
+- Buzz
+- 11
+- Fizz
+- 13
+- 14
+- FizzBuzz , Since 15 is multiple of both 3 and 5
+- 16
+- 17
+- Fizz
+- 19
+- Buzz
+-- Continue upto and (including 100)
+Make Sure your program prints from 1 to 100 both inclusive.
+
+TRY DOING THIS IN YOUR EDITOR..,
+IF YOU FOUND ANY PROBLEM.
+just feel free to open an issue,
+i regular check the issues.
+also you can mail me : mail address in bottom of ReadMe
