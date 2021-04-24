@@ -11,7 +11,7 @@ if username == friend:
 """ -- What will happen here is that python checks if username is equal to friend, 
 if yes, then it will run the print statement inside it. else nothing will be printed -- """
 """ SYNTAX
-if username == friend }- Boolean Comparison, : }- Colon
+if username == friend }- Boolean Comparison, : }- Colon depicts the start of the body.
     body }- indentation is necessary, so python knows that these statements are inside if statements."""
 """as soon as you terminate the space in front of print statements, python will give an error.."""
 """     if [Bool]:  -- if true, returns print statment, otherwise else
