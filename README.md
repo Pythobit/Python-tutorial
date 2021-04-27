@@ -13,7 +13,7 @@ A tutorial for those who wanna make success in Python, here will be covering Pyt
 - <a href="/Season 1 - Intro to Python/">Season 1 - Intro to Python</a><br>
 - <a href="/Season 2 - Python Fundamentals/">Season 2 - Python Fundamentals</a><br>
 - <a href="/Season 3 - Milestone Project 1/">Season 3 - Milestone Project 1</a><br>
-- <a href="/Season 4 - Object Oriented Programming with Python/">Season 4 - Object Oriented Programming with Python</a><br>
+- <a href="/Season 4 - Object Oriented Programming in Python/">Season 4 - Object Oriented Programming with Python</a><br>
 - <a href="/Season 5 - Errors in Python/">Season 5 - Errors in Python</a><br>
 - <a href="/Season 6 - Files in Python/">Season 6 - Files in Python</a><br>
 - <a href="/Season 7 - Databases in Python & Milestone Project 2/">Season 7 - Databases in Python & Milestone Project 2</a><br>
