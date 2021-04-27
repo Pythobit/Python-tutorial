@@ -1,0 +1,6 @@
+Installing Python in Windows OS - https://www.youtube.com/watch?v=IDo_Gsv3KVk
+
+Installing Python in MacOS - https://www.youtube.com/watch?v=TgA4ObrowRg&t=1s
+// Python 2.7 comes preinstalled in  MacOS, but we need the latest version to code on..!
+
+Installing Python in Linux - https://www.youtube.com/watch?v=DgGM4_qSmwU
