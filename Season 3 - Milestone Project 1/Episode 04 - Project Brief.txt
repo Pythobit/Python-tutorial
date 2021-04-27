@@ -1,0 +1,30 @@
+                                                                        Movie Project Brief
+ Your Task,
+ is to create a movie storage application, that will allow users to manage their movie collection and find any movie they want.
+ Here's, three main features.,
+ - first, the application must allow users to add new movie to their collections.
+ - The application must allow users to view all the movies in their collection.
+ - The application must also allow users to find any particular movie by any of its attribute.,
+ 
+ What are movies.?
+ Movies will be dictionaries, but you can define the structure of the dictionary to be anything you like., for example., you may choose to have movies as dictionaries 
+ with only three keys:
+ {
+    'name': 'The Matrix',
+    'director': 'Wachowskis'
+    'year': '1994'
+ }
+ 
+ or you may choose to have more keys like location, shelf., etc.
+ 
+ Where will movies be stored.?
+ it's up to you where movies will be stored, as long as you can then print them, retrieve them, and find them. A good potential structure coukd be a list. if you are familiar
+ with files and storing things in file, go for that.!
+ 
+ What's that about finding movies.?
+ Once you have the movie structure defined, users should be able to e.g: "find all movies released in 1994." or "find all movies by director Rolf Smith."
+ 
+ That means the user must be able to tell you what property they are looking for (is it year, director, or something else); and also they must be able too tell you what 
+ they're looking for (1994, or Rolf Smith in the examples above).
+ 
+ With both the property and the value, you'll ab;e to find all movies which match both. it's tricky! Spend some time, and i'm sure you'll get it.
