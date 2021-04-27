@@ -1,0 +1,5 @@
+PyCharm Installation on Windows - https://www.youtube.com/watch?v=SZUNUB6nz3g&t=3s
+
+PyCharm Installation on MacOS - https://www.youtube.com/watch?v=K5cAu-Wro3M
+
+PyCharm Installation on Linux - https://www.youtube.com/watch?v=gGiG5DcumMU
