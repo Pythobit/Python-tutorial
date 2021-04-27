@@ -1,0 +1,6 @@
+So, We are heading to our first Coding project,
+click on New Project > choose your own path where you want to make your path, and the interpreter.
+
+Once, you are in..,
+if you want to set font, display..,
+go to Preferences > go to scheme, and set as you want. 
