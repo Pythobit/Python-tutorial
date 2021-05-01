@@ -24,7 +24,7 @@ print(len(movies))                  # OUTPUT - 2
 
 class Garage:
     def __init__(self):
-        self.cars[]
+        self.cars = []
 
 ford = Garage()
 print(ford.cars)                    # OUTPUT - [] (i.e: empty list()
