@@ -44,7 +44,7 @@ friends = [('Pythobit',21),('boy',21),('Pythoman',22)]
 friend_ages = dict(friends)
 print(friend_ages)     # Output - {'Pythobit': 21, 'boy': 21, 'Pythoman': 22}
 
-# A Dicitionary Based Problem.. -------------------------------------------------------------------------------------------------------------------------------------------------
+# A Dicitionary Based Problem.. ------------------------------------------------------------------------------------------------------------------------------------------------
 # Question as Follows :-
 lottery_numbers = {13, 21, 22, 5, 8}
 
