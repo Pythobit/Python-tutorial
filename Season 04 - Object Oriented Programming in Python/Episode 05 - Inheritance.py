@@ -60,3 +60,4 @@ print(anna.weekly_salary())            # OUTPUT - ERROR...!!!
 Because, the weekly_salary method is not defined in the parent class, and we've inherited < class WorkingStudent > from 
 < class Student >
 """ 
+print(rolf.weekly_salary())            # OUTPUT - 581.25
