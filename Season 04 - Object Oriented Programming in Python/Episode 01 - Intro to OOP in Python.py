@@ -41,6 +41,7 @@ if you want name it my object, thats totally fine, but the convention in python 
 """ now the self.name is the new variable created, and we are giving the variable the value of new_name which is Rolf Smith. """
 # we can access some special property of it, as below
 print(student_one.name)     # OUTPUT -  Rolf Smith
+
 """ what if we print(student_one.name) # OUTPUT -  Rolf Smith """
 print(student_one.__class__)    # OUTPUT - <class '__main__.Student'>
 """ what if we print(student_one.__class__) # OUTPUT - <class '__main__.Student'> """
