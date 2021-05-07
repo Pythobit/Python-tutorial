@@ -1,6 +1,6 @@
 <h1 align="center"><b>Python : Basic to Advance</b></h1>
 <p align="center">
-  <img height="480" width="700" src="background.jpg">
+  <img height="480" width="700" src="bg.jpg">
 </p>
 A tutorial for those who wanna make success in Python, here will be covering Python Basics to Advance, with 4 projects to work upon including database with SQLite, Web Scraping and Many more..., so stay tuned for more..
 <br>
@@ -56,5 +56,5 @@ A tutorial for those who wanna make success in Python, here will be covering Pyt
 1. Access to a computer with an internet connection. Everything else we use is publicly available and i'll guide you through getting it.<br>
 2. There are no other requirements, besides getting started!<br><br>
 <p align="center">
-  <img src="bg.jpg" width="700" height="500">
+  <img src="background.jpg" width="700" height="500">
 </p>
