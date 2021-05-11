@@ -125,8 +125,31 @@ everything.
     so apply carefully, when applying to syntax
     
 10. TypeError :-
-     It can be pretty common. 
-"""
+     It can be pretty common, it happens when you do something like this
+        
+        >>> 5 + 5
+        10
+        >>> 'hi' + 'ha'
+        'hiha'
+        >>> 5 + 'hi'
+        Traceback (most recent call back):
+          File '<stdin>', line 1, in <module>
+        TypeError: unsupported operand type(s) for +: 'int' and 'str'
+        
+     at last, we're doing something that we should not do,
+     we cannot add an integer and a string, as (+) is also a dunder function.
 
+11. ValueError :-
+     It is very common, it happens when built-in functions are provided with incorrect value of correct type
+     
+        >>> int('20.5')
+        Traceback (most recent call back):
+          File '<stdin>', line 1, in <module>
+        ValueError: Invalid literal for int() with base 10 : '20.5'
+
+    Here, we're turning an int in string but string cannot contain decimal places, and if do so you need to convert it into a float.
+    Normally, Built-in functions raise ValueError(s).
+    but, if you want to raise the error, we'll study it very next lecture...
+"""
 
 Ep. 02 - Built-in Errors
