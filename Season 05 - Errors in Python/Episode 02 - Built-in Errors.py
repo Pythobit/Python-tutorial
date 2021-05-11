@@ -61,6 +61,72 @@ everything.
         Traceback (most recent call last):
           File "<stdin>", line 1, in <module>
         NameError: name 'hello' is not defined
+
+    as earlier told, it happens when we do not define variable, as the error above scripts : name 'hello' is not defined
+    of course, print('hello') would still work because it is interpreted as a string. 
+    
+4. AttributeError :-
+    Attribute Error is pretty popular when you start dealing with objects.,
+        
+        >>> friends = ['Rolf', 'Jose', 'Charlie']
+        >>> friends_nearby = ['Rolf', 'Anna']
+        >>> friends.intersection(friends_nearby)
+        Traceback (most recent call last):
+          File "<stdin>", line 1, in <module>
+        AttributeError: 'list' object has no attribute 'intersection'
+        
+    Intersection is somethings you can do with sets, but these are 2 lists, and here intersection is not applicable,
+    so python will give an error.
+
+5. NotImplementedError :-
+    This error you won't be seen most often, but it's a error you can use it in your code.,
+    and here how to use it.
+        
+        class User:
+            def __init__(self, username, password):
+                self.username = username
+                self.password = password
+            
+            def login(self):
+                :raise NotImplementedError('This feature is not applied yet...')
+         
+    And here instead of returning none, you can raise an error like the above mentioned code and put some description in it.
+    so, doing this will raise an error, when you call User.login()
+    
+6. RuntimeError :-
+    It is a pretty generic error, it's not correctly clear, when it's gonna happen, this is not an error, you'll see very often.
+        it's essentially a base class error and other error inherits from this.
+    A Runtime is an Error that happens anytime, when you are running your program.
+    
+7. SyntaxError :-
+    SyntaxError is an error when you mess in your python code.
+    
+        class User     -- illegal Syntax (missing semicolon (:) )
+            def add():
+                c = a + b 
+    
+    the above provided code is an illegal statement, as it missing a semicolon in front of class name
+    
+8. IndentationError :-
+    Remember blocks of function has to be indented.
+    
+        def add(x, y):
+        return x + y
+        // this will give an name error
+        
+        def add(x, y):
+            pass
+            
+        return x + y
+        // this will also give an error, as the return statement is out of the class, this will also return NameError.
+        
+9. TabError :-
+    It frequently occurs when changing editors, so spaces and tabs has difference between them,
+    so apply carefully, when applying to syntax
+    
+10. TypeError :-
+     It can be pretty common. 
 """
+
 
 Ep. 02 - Built-in Errors
