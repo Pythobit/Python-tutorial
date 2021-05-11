@@ -151,6 +151,43 @@ everything.
     Normally, Built-in functions raise ValueError(s).
     but, if you want to raise the error, we'll study it very next lecture...
     
-"""
+12. ImportError :-
+     It's really popular and is big pain in the ass 😄.
+     Here's How.,
+     
+         # app.py                                           # blog.py
+         import blog        ---------------------->         from app import menu                    
+                        Importing each other circularly
+         def menu():        <----------------------         def do_something():                        
+            pass                                                pass
+            
+     This circular import will cause an ImportError,
+     
+     If you have such error, feel free to raise an issue, i reply within hours.
 
-Ep. 02 - Built-in Errors
+13. Deprecation Warning :-
+     As it says, it's not a warning, not an error, python tricks you the same way.,
+     
+        from database import Database
+        
+        class User:
+            def __init__(self, username, password):
+                self.username = username
+                self.password = password
+                
+            def register(self):
+                Database.write(self.username, self.password)
+                raise DeprecationWarning('User#register still works, but it is deprecated.')
+                
+            @classmethod
+            def register_user(cls, username, password):
+                Database.write(username, password)
+                return cls(username, password)
+     
+     if you raise one, your program will still crash, but it meants to be you tried something which is deprecated.
+     
+     Deprecation means it's no longer way to do something, now there's a better way whatever you are trying to do.
+     
+     * Often, you want it be raising any of these exceptions.
+     * You should create your own exceptions, with any better name.
+"""
