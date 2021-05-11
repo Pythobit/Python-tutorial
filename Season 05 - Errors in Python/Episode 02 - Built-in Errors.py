@@ -150,6 +150,7 @@ everything.
     Here, we're turning an int in string but string cannot contain decimal places, and if do so you need to convert it into a float.
     Normally, Built-in functions raise ValueError(s).
     but, if you want to raise the error, we'll study it very next lecture...
+    
 """
 
 Ep. 02 - Built-in Errors
