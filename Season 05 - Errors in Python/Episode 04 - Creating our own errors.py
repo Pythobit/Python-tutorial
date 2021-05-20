@@ -15,10 +15,10 @@ we also know that how to create and extend the classes
 
 this above piece of code is a class and it has to inherit from one of built-in errors.
 """
-# class MyCustomError(TypeError):
-#     pass
-#
-# raise MyCustomError('An Error message.')
+class MyCustomError(TypeError):
+    pass
+
+raise MyCustomError('An Error message.')
 """
 but if we need an error code while printing the error message, but we need to define a new constructor in the class
 """
@@ -34,4 +34,3 @@ we'll create an new error string as super().__init__(f'Error code {code}: {messa
 * if you don't want to raise an TypeError, you can extend the class from Exception, as it's a base class exception.
 X Don't extend the class from the BaseException
 """
-
