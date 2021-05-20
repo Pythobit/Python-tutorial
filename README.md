@@ -1,4 +1,4 @@
-<h1 align="center" font-family: "Bebas Neue, cursive"><b>Python : Basic to Advance</b></h1>
+<h1 align="center" style="font-family: 'Bebas Neue', cursive;"><b>Python : Basic to Advance</b></h1>
 <p align="center">
   <img height="580" width="700" src="bg.jpg">
 </p>
