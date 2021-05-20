@@ -1,4 +1,4 @@
-<h1 text="center"> **Python : Basic to Advance** </h1>
+<h1 align="center">Python : Basic to Advance</h1>
 <p align="center">
   <img height="580" width="700" src="bg.jpg">
 </p>
