@@ -39,5 +39,15 @@ def add_car(self, car):
         raise TypeError('Error..!')
     else:
         self.cars.append(car)
+"""
+An exception might happen if you try ford.add_car(fiesta)
+"""
+def add_car(self, car):
+    try:
+        ford.add_car(fiesta)
+    except TypeError:
+        print('You`r car was not a car.!')
+    finally:
+        print('this will run always..')
 
-Ep. 05 - Dealing with errors
+# We can catch multiple errors by adding another except block just below the previous one.
