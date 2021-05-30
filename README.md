@@ -5,9 +5,22 @@
 A tutorial for those who wanna make success in Python, here will be covering Python Basics to Advance, with 4 projects to work upon including database with SQLite, Web Scraping and Many more..., so stay tuned for more..
 <br>
 <b>This Consists of 23 Seasons with 341 Episodes with a total time of 35.5 Hours</b>
-<br>
+<br><br>
 
-> Must Add Your Name [HERE](/Names/Names.md)
+> Must Add Your Name [HERE](/Names/) Before getting Started..!
+```
+Names/YourName.md
+```
+> Format to add Your Name.
+```
+---
+name: FULLNAME-OR-NICKNAME # No longer than 28 characters
+profession: INSTITUTION-NAME 🚩 # no longer than 58 characters
+github_user: YOUR-GITHUB-USERNAME
+---
+
+*Please don't use any special characters.*
+```
 
 <h2><b>Key Contents</b></h2>
 - <a href="/Environment.txt/">Environment</a><br>
