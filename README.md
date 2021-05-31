@@ -4,7 +4,7 @@
 </p>
 A tutorial for those who wanna make success in Python, here will be covering Python Basics to Advance, with 4 projects to work upon including database with SQLite, Web Scraping and Many more..., so stay tuned for more..
 <br>
-<b>This Consists of 23 Seasons with 341 Episodes with a total time of 35.5 Hours</b>
+**This Consists of 23 Seasons with 341 Episodes with a total time of 35.5 Hours**
 <br><br>
 
 > Must Add Your Name [HERE](/Names/) Before getting Started..!
@@ -22,32 +22,32 @@ github_user: YOUR-GITHUB-USERNAME
 *Please don't use any special characters.*
 ```
 
-<h2><b>Key Contents</b></h2>
-- <a href="/Environment.txt/">Environment</a><br>
-- <a href="/Projects.txt/">Projects</a><br>
-- <a href="/Season 01 - Intro to Python/">Season 01 - Intro to Python</a><br>
-- <a href="/Season 02 - Python Fundamentals/">Season 02 - Python Fundamentals</a><br>
-- <a href="/Season 03 - Milestone Project 1/">Season 03 - Milestone Project 1</a><br>
-- <a href="/Season 04 - Object Oriented Programming in Python/">Season 04 - Object Oriented Programming with Python</a><br>
-- <a href="/Season 05 - Errors in Python/">Season 05 - Errors in Python</a><br>
-- <a href="/Season 06 - Files in Python/">Season 06 - Files in Python</a><br>
-- <a href="/Season 07 - Databases in Python & Milestone Project 2/">Season 07 - Databases in Python & Milestone Project 2</a><br>
-- <a href="/Season 08 - Type Hinting in Python/">Season 08 - Type Hinting in Python</a><br>
-- <a href="/Season 09 - Advanced built-in functions in Python/">Season 09 - Advanced built-in functions in Python</a><br>
-- <a href="/Season 10 - Advanced Python Development/">Season 10 - Advanced Python Development</a><br>
-- <a href="/Season 11 - Web Scraping with Python/">Season 11 - Web Scraping with Python</a><br>
-- <a href="/Season 12 - Browser Automation with Selenium/">Season 12 - Browser Automation with Selenium</a><br>
-- <a href="/Season 13 - Asynchronous Python Development/">Season 13 - Asynchronous Python Development</a><br>
-- <a href="/Season 14 - Python on the console and managing project dependencies/">Season 14 - Python on the console and managing project dependencies</a><br>
-- <a href="/Season 15 - Web Development with Flask/">Season 15 - Web Development with Flask</a><br>
-- <a href="/Season 16 - Interacting with APIs with Python/">Season 16 - Interacting with APIs with Python</a><br>
-- <a href="/Season 17 - Decorators in Python/">Season 17 - Decorators in Python</a><br>
-- <a href="/Season 18 - Advanced Object-Oriented Programming/">Season 18 - Advanced Object-Oriented Programming</a><br>
-- <a href="/Season 19 - GUI Development with Tkinter/">Season 19 - GUI Development with Tkinter</a><br>
-- <a href="/Season 20 - Unit Testing with Python/">Season 20 - Unit Testing with Python</a><br>
-- <a href="/Season 21 - Algorithms and Data Structures/">Season 21 - Algorithms and Data Structures</a><br>
-- <a href="/Season 22 - Python Libraries/">Season 22 - Python Libraries</a><br>
-- <a href="/Season 23 - Python Refresher/">Season 23 - Python Refresher</a><br>
+## Key Contents
+* [Environment](/Initials/Environment.txt/)<br>
+* [Projects](/Initials/Projects.txt/)<br>
+* [Season 01 - Intro to Python](/Season 01 - Intro to Python/)<br>
+* [Season 02 - Python Fundamentals](/Season 02 - Python Fundamentals/)<br>
+* [Season 03 - Milestone Project 1](/Season 03 - Milestone Project 1/)<br>
+* [Season 04 - Object Oriented Programming with Python](/Season 04 - Object Oriented Programming in Python/)<br>
+* [Season 05 - Errors in Python](/Season 05 - Errors in Python/)<br>
+* [Season 06 - Files in Python](/Season 06 - Files in Python/)<br>
+* [Season 07 - Databases in Python & Milestone Project 2](/Season 07 - Databases in Python & Milestone Project 2/)<br>
+* [Season 08 - Type Hinting in Python](/Season 08 - Type Hinting in Python/)<br>
+* [Season 09 - Advanced built-in functions in Python](/Season 09 - Advanced built-in functions in Python/)<br>
+* [Season 10 - Advanced Python Development](/Season 10 - Advanced Python Development/)<br>
+* [Season 11 - Web Scraping with Python](/Season 11 - Web Scraping with Python/)<br>
+* [Season 12 - Browser Automation with Selenium](/Season 12 - Browser Automation with Selenium/)<br>
+* [Season 13 - Asynchronous Python Development](/Season 13 - Asynchronous Python Development/)<br>
+* [Season 14 - Python on the console and managing project dependencies](/Season 14 - Python on the console and managing project dependencies/)<br>
+* [Season 15 - Web Development with Flask](/Season 15 - Web Development with Flask/)<br>
+* [Season 16 - Interacting with APIs with Python](/Season 16 - Interacting with APIs with Python/)<br>
+* [Season 17 - Decorators in Python](/Season 17 - Decorators in Python/)<br>
+* [Season 18 - Advanced Object-Oriented Programming](/Season 18 - Advanced Object-Oriented Programming/)<br>
+* [Season 19 - GUI Development with Tkinter](/Season 19 - GUI Development with Tkinter/)<br>
+* [Season 20 - Unit Testing with Python](/Season 20 - Unit Testing with Python/)<br>
+* [Season 21 - Algorithms and Data Structures](/Season 21 - Algorithms and Data Structures/)<br>
+* [Season 22 - Python Libraries](/Season 22 - Python Libraries/)
+* [Season 23 - Python Refresher](/Season 23 - Python Refresher/)
 
 # What you’ll learn
 ```
