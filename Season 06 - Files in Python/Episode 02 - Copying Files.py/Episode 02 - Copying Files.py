@@ -22,3 +22,6 @@ for friend in friends_nearby_set:
     nearby_friends_file.write(f'{friend}\n')
 
 nearby_friends_file.close()
+
+
+
