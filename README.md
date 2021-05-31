@@ -25,7 +25,7 @@ github_user: YOUR-GITHUB-USERNAME
 ## Key Contents
 * [Environment](/Initials/Environment.txt/)
 * [Projects](/Initials/Projects.txt/)
-* [Season 01 - Intro to Python](/Season 01 - Intro to Python/)
+* [Season 01 - Intro to Python](https://github.com/Pythobit/Python-tutorial/Season 01 - Intro to Python/)
 * [Season 02 - Python Fundamentals](/Season 02 - Python Fundamentals/)
 * [Season 03 - Milestone Project 1](/Season 03 - Milestone Project 1/)
 * [Season 04 - Object Oriented Programming with Python](/Season 04 - Object Oriented Programming in Python/)
