@@ -49,7 +49,8 @@ github_user: YOUR-GITHUB-USERNAME
 - <a href="/Season 22 - Python Libraries/">Season 22 - Python Libraries</a><br>
 - <a href="/Season 23 - Python Refresher/">Season 23 - Python Refresher</a><br>
 
-<h2><b>What you’ll learn</b></h2>
+# What you’ll learn
+```
 1. From foundations to expert, learn about every major Python topic, working with Python 3.<br>
 2. Write professional-grade Pythonic code with all the best practices and avoiding common pitfalls.<br>
 3. Master Object-Oriented Programming and structure your Python programs like a professional.<br>
@@ -58,16 +59,21 @@ github_user: YOUR-GITHUB-USERNAME
 6. Learn how to write desktop applications with Python and Tkinter.<br>
 7. Interact with REST APIs using Python and build a currency converter!<br>
 8. Develop a life-long love for programming with Python!<br>
+```
 
-<h3><b>You will:</b></h3>
+## You will:
+```
 1. Get a broader and deeper experience in Python<br>
 2. Start at zero and become an expert whilst learning all about the inner workings of Python.<br>
 3. Learn how to write professional Python code like a professional Python developer.<br>
 4. Develop a long-lasting love for Python and programming by creating good programming habits.<br>
 5. Explore the wider possibilities of what you can do with Python, including databases, web development and web scraping.<br>
 7. Become job-ready by learning about best practices, Selenium, unit testing, and all of the major Python topics.<br>
+```
 
-<h2><b>Are there any course requirements or prerequisites?</b></h2>
+## Are there any course requirements or prerequisites?
+```
 1. Access to a computer with an internet connection. Everything else we use is publicly available and i'll guide you through getting it.<br>
 2. There are no other requirements, besides getting started!<br><br>
+```
 
