@@ -1,0 +1,4 @@
+name,age,university,degree
+rolf,25,mit,computer science
+jen,22,oxford,computing
+bob,24,cambridge,physics
