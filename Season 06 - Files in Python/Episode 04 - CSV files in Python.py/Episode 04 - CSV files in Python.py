@@ -20,3 +20,4 @@ for line in lines:
 sample_csv_data = ':'.join(['pythobit', '21', 'amity', 'computer science'])
 print(sample_csv_data)
 
+
