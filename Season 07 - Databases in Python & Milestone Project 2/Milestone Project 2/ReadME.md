@@ -17,12 +17,12 @@ their structure to be anything you like, but here is my proposed structure:
 }
 ```
 ## Marking books as read
-The property __read__ of each book should be a boolean.
+The property _read_ of each book should be a boolean.
 
 When a user wants to mark a book as read, we first should ask them for the
 name of the book they’ve read.
 
-Then, loop through all the books and set the __read__ property to __True__ if the
+Then, loop through all the books and set the _read_ property to _True_ if the
 book name matches what the user typed.
 
 ## Deleting books
