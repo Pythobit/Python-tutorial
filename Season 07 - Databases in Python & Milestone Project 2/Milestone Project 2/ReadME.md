@@ -63,8 +63,8 @@ try to add file storage afterwards.
 By writing code yourself and working through these exercises, you’re going to
 grasp everything in programming really quickly.
 
+# File Structure
 ```
-File Structure
 
 Milestone_Project_2
 |
