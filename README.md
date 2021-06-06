@@ -7,7 +7,7 @@ A tutorial for those who wanna make success in Python, here will be covering Pyt
 **This Consists of 23 Seasons with 341 Episodes with a total time of 35.5 Hours**
 <br><br>
 
-> Must Add Your Name [HERE](/Names/) Before getting Started..!
+> Must Add Your Name [HERE](/Names/)
 ```
 Names/YourName.md
 ```
