@@ -1,0 +1,14 @@
+# Ordering and Limiting in SQLite
+
+# Ordering
+SELECT * FROM people ORDER BY amount
+# This will give table in ascending order of amount.
+
+# Limiting
+SELECT * FROM people ORDER BY amount DESC LIMIT 1
+# LIMIT 1 will give only one row, i.e: Walmart finding out the customer who spends a lot of money for a Withdraw or something else.
+# DESC - Descending
+# This will give table in descending order of amount.
+# default is ASC - ascending
+
+
