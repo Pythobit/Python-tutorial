@@ -1,0 +1,4 @@
+13-07-2021 16:12:19 : INFO     [main.py:14] : This will not show up.
+13-07-2021 16:12:19 : WARNING  [main.py:15] : This will show up
+13-07-2021 16:12:19 : DEBUG    [main.py:16] : This is a Debug message.
+13-07-2021 16:12:19 : CRITICAL [main.py:17] : This is a Critical message.
