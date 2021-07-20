@@ -1,0 +1,8 @@
+You need to download chrome driver and save it to a folder where you can remember the path
+
+Steps to download : 
+1. Go to the website < chromedriver.chromium.org >
+2. Click on Latest Stable Release, it will open a new web page.
+3. now, Click on the zip file, based on your operating system.
+4. Once downloaded, unzip it to a path where you can remember, you'll need to provide it later in the code
+5. You'r Good to go..
