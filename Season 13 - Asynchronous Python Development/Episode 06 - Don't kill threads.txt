@@ -1,0 +1,6 @@
+"""
+
+In python, don't kill threads manually, if you do so, it will also result into killing the GIL of the program, killing the thread
+will make the program unable to terminate and this will result in deadlock, which is not good for the system.
+
+"""
