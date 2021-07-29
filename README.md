@@ -4,6 +4,7 @@
 </p>
 
 <br>
+
 ## Key Contents
 * [Environment](/Initials/Environment.txt/)<br>
 * [Projects](/Initials/Projects.txt/)<br>
@@ -20,14 +21,13 @@
 * <a href="/Season 11 - Web Scraping with Python/">Season 11 - Web Scraping with Python</a><br>
 * <a href="/Season 12 - Browser Automation with Selenium/">Season 12 - Browser Automation with Selenium</a><br>
 * <a href="/Season 13 - Asynchronous Python Development/">Season 13 - Asynchronous Python Development</a><br>
-* <a href="/Season 14 - Python on the console and managing project dependencies/">Season 14 - Python on the console and managing project dependencies</a><br>
-* <a href="/Season 15 - Web Development with Flask/">Season 15 - Web Development with Flask</a><br>
-* <a href="/Season 16 - Interacting with APIs with Python/">Season 16 - Interacting with APIs with Python</a><br>
-* <a href="/Season 17 - Decorators in Python/">Season 17 - Decorators in Python</a><br>
-* <a href="/Season 18 - Advanced Object-Oriented Programming/">Season 18 - Advanced Object-Oriented Programming</a><br>
-* <a href="/Season 19 - GUI Development with Tkinter/">Season 19 - GUI Development with Tkinter</a><br>
-* <a href="/Season 20 - Unit Testing with Python/">Season 20 - Unit Testing with Python</a><br>
-* <a href="/Season 21 - Algorithms and Data Structures/">Season 21 - Algorithms and Data Structures</a><br>
-* <a href="/Season 22 - Python Libraries/">Season 22 - Python Libraries</a><br>
-* <a href="/Season 23 - Python Refresher/">Season 23 - Python Refresher</a><br>
+* <a href="/Season 14 - Web Development with Flask/">Season 14 - Web Development with Flask</a><br>
+* <a href="/Season 15 - Interacting with APIs with Python/">Season 15 - Interacting with APIs with Python</a><br>
+* <a href="/Season 16 - Decorators in Python/">Season 16 - Decorators in Python</a><br>
+* <a href="/Season 17 - Advanced Object-Oriented Programming/">Season 17 - Advanced Object-Oriented Programming</a><br>
+* <a href="/Season 18 - GUI Development with Tkinter/">Season 18 - GUI Development with Tkinter</a><br>
+* <a href="/Season 19 - Unit Testing with Python/">Season 19 - Unit Testing with Python</a><br>
+* <a href="/Season 20 - Algorithms and Data Structures/">Season 20 - Algorithms and Data Structures</a><br>
+* <a href="/Season 21 - Python Libraries/">Season 21 - Python Libraries</a><br>
+* <a href="/Season 22 - Python Refresher/">Season 22 - Python Refresher</a><br>
 
