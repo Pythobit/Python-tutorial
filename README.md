@@ -3,7 +3,6 @@
   <img height="580" width="700" src="bg.jpg">
 </p>
 
-**This Consists of 23 Seasons with 341 Episodes with a total time of 35.5 Hours**
 <br>
 ## Key Contents
 * [Environment](/Initials/Environment.txt/)<br>
