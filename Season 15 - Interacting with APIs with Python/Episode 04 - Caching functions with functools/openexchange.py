@@ -9,7 +9,7 @@ class OpenExchangeClient:
         self.app_id = app_id
 
     @property
-    @functools.lru_cache(maxsize=2)   # added
+    @functools.lru_cache(maxsize=2)   # added least_recently_used_cache (lru_cache)
     def latest(self):
         return requests.get(f'{self.BASE_URL}/latest.json?app_id={self.app_id}').json()
 
