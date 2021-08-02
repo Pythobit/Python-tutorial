@@ -1,6 +1,7 @@
 import requests
 
 APP_ID = 'YOUR-APP-ID'
+# find the below endpoint from documentation part.
 ENDPOINT = 'https://openexchangerates.org/api/latest.json'
 
 response = requests.get(f'{ENDPOINT}?app_id={APP_ID}')
