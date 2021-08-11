@@ -26,6 +26,4 @@
 * <a href="/Season 16 - Decorators in Python/">Season 16 - Decorators in Python</a><br>
 * <a href="/Season 17 - Advanced Object-Oriented Programming/">Season 17 - Advanced Object-Oriented Programming</a><br>
 * <a href="/Season 18 - Unit Testing with Python/">Season 18 - Unit Testing with Python</a><br>
-* <a href="/Season 19 - Algorithms and Data Structures/">Season 19 - Algorithms and Data Structures</a><br>
-* <a href="/Season 20 - Python Libraries/">Season 20 - Python Libraries</a><br>
 
